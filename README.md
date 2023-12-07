@@ -32,6 +32,17 @@ Info that we are planning to retrieve from GitHub in this script can include:
   - List all the users of the github repo.
   - Revoke the access of a user who has left the organization.
 
+  - Create an EC2 instance
+  - SSH to the EC2 instance
+  - Get the shell scripting code on EC2 machine.
+  - Now configure below :
+    ``
+    export username="itsnehagarg"
+    ``
+    ``
+    export token="Generate the GitHub token"
+    ``
+ 
   
 
   
