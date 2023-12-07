@@ -10,8 +10,11 @@ Info that we are planning to retrieve from GitHub in this script can include:
 - passwords
 - No. of issues
 - No. of projects
+- Who are the collaborators on a repo/ Who have access to a repository?
 
   This script can also be used as an module. Module means other devops engineers can also use this script to get information. lets say a Team was trying to integrate JIRA integration with GitHub, bugzilla and a reporting dashboard.
+
+  
 
   
 
