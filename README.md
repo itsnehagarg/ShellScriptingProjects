@@ -27,6 +27,11 @@ Info that we are planning to retrieve from GitHub in this script can include:
 ```
   In the above curl command replace OWNER and REPO values with your owner and repo.
 
+  ## Scenario 1:
+
+  - List all the users of the github repo.
+  - Revoke the access of a user who has left the organization.
+
   
 
   
